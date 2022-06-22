@@ -24,8 +24,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- git clone git@github.com:Donard97/hello-react-front-end.git
-- cd hello-rails-front-end
+- git clone https://github.com/sumairq/Hello-rails-frontend.git
+- cd hello-rails-frontend
 
 ### Install
 
